@@ -2,3 +2,8 @@
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Logo_OZ_Radio_Bandung_%282024%29.png/330px-Logo_OZ_Radio_Bandung_%282024%29.png",OZ Radio Bandung
 https://gra11.hnux.com/http://e15149.cloudrad.io:8000/ozbandung
 
+#EXTINF:-1 tvg-logo="https://gen987fm.com/favicon.ico",GEN 98.7 FM (HLS)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://gen987fm.com/
+http://wz.mari.co.id:1936/web_genfm/genfm/playlist.m3u8
+
